@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsyncCombinedLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab476f790444624dd93e8dfd8c8a7406e0f1611")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64fc3f6aa04d192257f47f7950c8dabf1a69df3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsyncCombinedLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsyncCombinedLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
