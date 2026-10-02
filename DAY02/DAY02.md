@@ -110,3 +110,83 @@ Server는 존재하지 않거나 유효하지 않은 coinId를 확인하면
 - [x] 요청 메시지와 결과 메시지를 구분했다.
 - [x] Server가 검사할 조건을 작성했다.
 - [x] 각 모듈의 중심 책임을 구분했다.
+
+## 8. 응용 실습 - 협동 보스전
+
+### 서버 구성
+
+구성 요소
+
+- Player A Client
+- Player B Client
+- Game Server
+- Database
+
+데이터 흐름
+
+Player A Client → Game Server
+- MoveRequest
+- AttackRequest
+
+Player B Client → Game Server
+- MoveRequest
+- AttackRequest
+
+Game Server → Player A Client
+- PlayerStateChanged
+- BossStateChanged
+- DamageResult
+
+Game Server → Player B Client
+- PlayerStateChanged
+- BossStateChanged
+- DamageResult
+
+Game Server → Database
+- SaveBattleResult
+
+
+### 요청과 판정
+
+Client는 이동과 공격을 Game Server에 요청한다.
+
+Game Server는 플레이어의 위치, 공격 가능 거리, 보스의 현재 상태를 확인한 뒤
+공격 성공 여부와 피해량을 최종 결정한다.
+
+보스 HP와 피해량은 Client가 직접 결정하지 않는다.
+
+Game Server에서 확정된 보스 상태와 전투 결과는
+Player A와 Player B에게 동일하게 전달한다.
+
+Database는 실시간 공격 판정을 담당하지 않고
+전투가 끝난 뒤 확정된 결과를 저장한다.
+
+
+### 메시지 명세
+
+| 메시지 이름 | 방향 | 필드 | Server 처리 |
+| --- | --- | --- | --- |
+| AttackRequest | Client → Server | playerId, bossId, skillId | 플레이어 상태, 공격 거리, 스킬 사용 가능 여부 검사 |
+| DamageResult | Server → All Clients | playerId, bossId, damage | 확정된 피해량 전달 |
+| BossStateChanged | Server → All Clients | bossId, hp | 확정된 보스 HP를 모든 Client에 전달 |
+| SaveBattleResult | Server → Database | bossId, clearResult | 전투 종료 결과 저장 |
+
+
+### Server가 반드시 판정해야 할 데이터 3개
+
+1. 공격 성공 여부
+2. 보스에게 적용되는 피해량
+3. 보스의 최종 HP와 처치 여부
+
+
+### 서버 권한 정리
+
+- Client는 공격을 요청한다.
+- Server는 공격 조건을 검사한다.
+- 피해량과 보스 HP는 Server가 최종 결정한다.
+- 확정된 결과를 두 Client에게 전달한다.
+- 전투 종료 결과는 Database에 저장한다.
+
+
+
+
