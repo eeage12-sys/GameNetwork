@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\bin\Debug\net10.0\PacketClientLab.exe
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\bin\Debug\net10.0\PacketClientLab.deps.json
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\bin\Debug\net10.0\PacketClientLab.runtimeconfig.json
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\bin\Debug\net10.0\PacketClientLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\bin\Debug\net10.0\PacketClientLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.sourcelink.json
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\refint\PacketClientLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\PacketClientLab.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY06\PacketClientLab\obj\Debug\net10.0\ref\PacketClientLab.dll
