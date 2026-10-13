@@ -1,0 +1,35 @@
+# Unity 자동 생성 폴더
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDE
+.vs/
+**/.vs/
+.idea/
+**/.idea/
+
+# .NET 자동 생성
+**/bin/
+**/obj/
+
+# 운영체제 임시 파일
+.DS_Store
+Thumbs.db
+
+# Unity 크래시 / 임시 파일
+sysinfo.txt
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
