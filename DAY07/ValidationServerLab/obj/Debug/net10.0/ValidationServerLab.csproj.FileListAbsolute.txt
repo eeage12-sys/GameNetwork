@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\bin\Debug\net10.0\ValidationServerLab.exe
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\bin\Debug\net10.0\ValidationServerLab.deps.json
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\bin\Debug\net10.0\ValidationServerLab.runtimeconfig.json
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\bin\Debug\net10.0\ValidationServerLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\bin\Debug\net10.0\ValidationServerLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.sourcelink.json
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\refint\ValidationServerLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ValidationServerLab.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY07\ValidationServerLab\obj\Debug\net10.0\ref\ValidationServerLab.dll
