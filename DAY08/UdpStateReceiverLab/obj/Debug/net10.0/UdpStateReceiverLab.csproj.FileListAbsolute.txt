@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\bin\Debug\net10.0\UdpStateReceiverLab.exe
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\bin\Debug\net10.0\UdpStateReceiverLab.deps.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\bin\Debug\net10.0\UdpStateReceiverLab.runtimeconfig.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\bin\Debug\net10.0\UdpStateReceiverLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\bin\Debug\net10.0\UdpStateReceiverLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.sourcelink.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\refint\UdpStateReceiverLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\UdpStateReceiverLab.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateReceiverLab\obj\Debug\net10.0\ref\UdpStateReceiverLab.dll

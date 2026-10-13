@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\bin\Debug\net10.0\UdpStateSenderLab.exe
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\bin\Debug\net10.0\UdpStateSenderLab.deps.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\bin\Debug\net10.0\UdpStateSenderLab.runtimeconfig.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\bin\Debug\net10.0\UdpStateSenderLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\bin\Debug\net10.0\UdpStateSenderLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.sourcelink.json
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\refint\UdpStateSenderLab.dll
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.pdb
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\UdpStateSenderLab.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GameNetwork\DAY08\UdpStateSenderLab\obj\Debug\net10.0\ref\UdpStateSenderLab.dll
