@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
+    <Compile Include="Assets\Scripts\NetworkScorePlayer.cs" />
     <Compile Include="Assets\Scripts\NetworkLauncher.cs" />
     <Compile Include="Assets\Scripts\NetworkCharacterPlayer.cs" />
   </ItemGroup>
