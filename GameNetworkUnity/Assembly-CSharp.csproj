@@ -53,9 +53,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.6.0f1\Editor\Data\BCLExtensions\TargetingPacks\netstandard2.1\analyzers\dotnet\roslyn4.0\cs\System.Text.Json.SourceGeneration.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\NetworkDoor.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
     <Compile Include="Assets\Scripts\NetworkScorePlayer.cs" />
     <Compile Include="Assets\Scripts\NetworkLauncher.cs" />
+    <Compile Include="Assets\Scripts\NetworkPlayerMove.cs" />
+    <Compile Include="Assets\Scripts\NetworkPlayerInteract.cs" />
+    <Compile Include="Assets\Scripts\NetworkCoin.cs" />
     <Compile Include="Assets\Scripts\NetworkCharacterPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
