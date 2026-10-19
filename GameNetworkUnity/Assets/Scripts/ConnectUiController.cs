@@ -14,7 +14,6 @@ public class ConnectUiController : MonoBehaviour
 
     private void Awake()
     {
-        // 처음에는 Retry 버튼을 숨깁니다.
         retryButton.gameObject.SetActive(false);
     }
 
@@ -30,11 +29,9 @@ public class ConnectUiController : MonoBehaviour
 
     private async UniTask StartHostAsync()
     {
-        // 이미 시작 처리 중이면 중복 요청 금지
         if (isStarting)
             return;
 
-        // 이미 Host/Server/Client가 실행 중이라면 다시 StartHost 하지 않음
         if (NetworkManager.Singleton != null &&
             NetworkManager.Singleton.IsListening)
         {
@@ -71,7 +68,6 @@ public class ConnectUiController : MonoBehaviour
 
         statusText.text = "Host Start Complete";
 
-        // Host가 이미 켜졌으므로 다시 시작 버튼을 누를 필요 없음
         connectButton.interactable = false;
         retryButton.gameObject.SetActive(false);
 
