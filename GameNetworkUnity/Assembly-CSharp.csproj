@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\ConnectUiController.cs" />
+    <Compile Include="Assets\Scripts\NetworkGameGoal.cs" />
     <Compile Include="Assets\Scripts\NetworkDoor.cs" />
     <Compile Include="Assets\TutorialInfo\Readme.cs" />
     <Compile Include="Assets\Scripts\NetworkScorePlayer.cs" />
